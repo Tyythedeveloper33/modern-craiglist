@@ -88,3 +88,14 @@ border-radius: 10px;
  #topban h2{
   text-align: center;
  }
+
+.clfooter{
+  text-align: center;
+  border-top: 1px solid #464646 ;
+  padding: 0px 10px 0px 10px;
+}
+
+ul > .clfooter{
+  display: inline;
+  padding-right: 5px;
+}
