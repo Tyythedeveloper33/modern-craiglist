@@ -45,3 +45,18 @@ ul > li {
   padding: 0px;
 }
 /* Your code here */
+a:visited > span {
+  color: #800080;
+  font-weight: bold;
+}
+
+/* a:hover{
+
+} */
+a:visited,
+a:hover,
+ a:hover > span{
+  font-weight: bold;
+  color:#800080;
+
+}
