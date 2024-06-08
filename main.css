@@ -29,5 +29,19 @@ p.more {
 .menu.collapsible > li ul {
   display: none;
 }
+*{
+  font-family: sans-serif;
+  background-color: #F5F5F5;
+  color: #464646;
+}
+* > a {
+  text-decoration: none;
+}
 
+ul > li {
+  list-style: none;
+}
+* > ul {
+  padding: 0px;
+}
 /* Your code here */
